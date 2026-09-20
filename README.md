@@ -5,3 +5,7 @@ Basically a notebook of things that I have learnt so that I can read it anywhere
 - The Complete Python Pro Bootcamp (from Angela Yu)
   - Link: https://generalmotors.udemy.com/course/100-days-of-code/learn
   - Date: 9/15/26 - current
+
+Things I want to learn
+
+- Github command and details
